@@ -7,6 +7,7 @@ import { AboutSection } from "@/components/about-section"
 import { ContactSection } from "@/components/contact-section"
 import { Footer } from "@/components/footer"
 import { InteractiveGridBackground } from "@/components/interactive-grid-background"
+import { ServicesSection } from "@/components/services-section"
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <div className="relative z-10 pointer-events-none [&_a]:pointer-events-auto [&_button]:pointer-events-auto [&_input]:pointer-events-auto [&_textarea]:pointer-events-auto [&_select]:pointer-events-auto">
         <Header />
         <HeroSection />
+        <ServicesSection />
         <CoursesSection />
         <PortfolioSection />
         <InspirationsSection />

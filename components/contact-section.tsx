@@ -30,7 +30,7 @@ export function ContactSection() {
             Entre em Contato
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Tem um projeto em mente? Adoraria ouvir suas ideias e ajudar a 
+            Tem um projeto em mente? Adoraria ouvir suas ideias e ajudar a
             transformar seu espaço em algo extraordinário.
           </p>
         </div>
@@ -51,15 +51,15 @@ export function ContactSection() {
                   <span>contato@studioarq.com.br</span>
                 </a>
                 <a
-                  href="tel:+5511999999999"
+                  href="tel:+5551981684260"
                   className="flex items-center gap-4 text-muted-foreground hover:text-accent transition-colors"
                 >
                   <Phone className="w-5 h-5" />
-                  <span>+55 (11) 99999-9999</span>
+                  <span>+55 (51) 98168-4260</span>
                 </a>
                 <div className="flex items-center gap-4 text-muted-foreground">
                   <MapPin className="w-5 h-5" />
-                  <span>São Paulo, SP — Brasil</span>
+                  <span>Porto Alegre, Rio Grande do Sul — Brasil</span>
                 </div>
               </div>
             </div>
@@ -70,7 +70,7 @@ export function ContactSection() {
               </h3>
               <div className="flex gap-4">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/adstudio.arquitetura/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 border border-border flex items-center justify-center text-muted-foreground hover:text-accent hover:border-accent transition-colors"

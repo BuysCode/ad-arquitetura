@@ -20,31 +20,18 @@ export function AboutSection() {
               Sobre Mim
             </p>
             <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-light text-foreground mb-8">
-              Ana Costa
+              Allyne Diogo
             </h2>
 
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Sou arquiteta apaixonada por criar espaços que contam histórias.
-                Com mais de 10 anos de experiência, desenvolvi uma abordagem única
-                que une funcionalidade, estética e a essência de cada cliente.
-              </p>
-              <p>
-                Formada pela Universidade de São Paulo (USP) com especialização
-                em Design de Interiores, acredito que cada projeto é uma oportunidade
-                de transformar a forma como as pessoas vivem e se relacionam com
-                seus ambientes.
-              </p>
-              <p>
-                Meu trabalho é guiado pelo minimalismo consciente — onde cada elemento
-                tem propósito e significado. Busco criar espaços que respiram,
-                acolhem e inspiram.
+                Sou Arquiteta responsável pelo AD Studio de Arquitetura e AD Home, formada em 2020 e especialista em design de interiores e patologias construtivas. Com sólida experiência técnica e atuação em obras grandes, projetos residenciais, comerciais e corporativos, meu foco principal é em soluções funcionais, bem planejadas e alinhadas às necessidades de cada cliente.
               </p>
             </div>
 
             <div className="mt-10 grid grid-cols-3 gap-8 pt-10 border-t border-border">
               <div>
-                <p className="font-serif text-3xl lg:text-4xl text-foreground mb-1">10+</p>
+                <p className="font-serif text-3xl lg:text-4xl text-foreground mb-1">5+</p>
                 <p className="text-xs tracking-wide text-muted-foreground uppercase">Anos de Experiência</p>
               </div>
               <div>

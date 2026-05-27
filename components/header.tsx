@@ -21,7 +21,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           <Link href="/" className="font-serif text-2xl lg:text-3xl font-medium tracking-tight text-foreground">
-            Studio Arq
+            AD Arquitetura
           </Link>
 
           {/* Desktop Navigation */}
