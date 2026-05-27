@@ -39,7 +39,7 @@ export function AboutSection() {
                 <p className="text-xs tracking-wide text-muted-foreground uppercase">Projetos Realizados</p>
               </div>
               <div>
-                <p className="font-serif text-3xl lg:text-4xl text-foreground mb-1">50+</p>
+                <p className="font-serif text-3xl lg:text-4xl text-foreground mb-1">100+</p>
                 <p className="text-xs tracking-wide text-muted-foreground uppercase">Clientes Satisfeitos</p>
               </div>
             </div>

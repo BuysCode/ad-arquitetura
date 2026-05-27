@@ -8,6 +8,7 @@ import { ContactSection } from "@/components/contact-section"
 import { Footer } from "@/components/footer"
 import { InteractiveGridBackground } from "@/components/interactive-grid-background"
 import { ServicesSection } from "@/components/services-section"
+import { TestimonialsSection } from "@/components/testimonials"
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <PortfolioSection />
         <InspirationsSection />
         <AboutSection />
+        <TestimonialsSection />
         <ContactSection />
         <Footer />
       </div>
